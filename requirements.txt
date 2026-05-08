@@ -1,0 +1,4 @@
+# Optional but recommended. digest.py can preview without these dependencies.
+PyYAML>=6.0.1
+akshare>=1.16.0
+tushare>=1.4.0
